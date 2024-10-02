@@ -1,2 +1,1 @@
-import nump
-import scipy
+import healpy
